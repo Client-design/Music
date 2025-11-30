@@ -1,0 +1,20 @@
+/* Custom CSS Properties (Variables) */
+
+:root {
+    /* --- Vibrant Theme Colors (Musical Vibe) --- */
+    --primary: #FF5722;   /* Vibrant Orange */
+    --accent: #FFC107;   /* Golden/Yellow */
+    --dark: #101010;     /* Deeper Dark Background for contrast */
+    --light: #f5f5f5;
+    
+    /* CORE MUSICAL VIBE COLORS */
+    --vibrant-main: #00BCD4;     /* Deep Cyan/Teal */
+    --vibrant-secondary: #CCFF00; /* Neon Lime/Electric Green */
+    
+    /* GRADIENTS FOR HEADER LINKS */
+    --vibrant-link-gradient: linear-gradient(90deg, #CCFF00, #00BCD4); 
+    --vibrant-link-gradient-hover: linear-gradient(90deg, #FF5722, #FFC107); 
+
+    /* Typography Defaults */
+    --font-family-base: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
